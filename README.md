@@ -1,6 +1,7 @@
 # Student-Attendance-System
 
-Loads student data (Name,ID, from a csv file inorder to get 
+Loads student data (Name,ID,Major, and College level) from a csv file that represents a class roster.
+Student Attendance can also be added from an additional csv file.
 
 Final Project for CSE 360 (Software Developement) at ASU. I wrote everything other than about 20 lines of code.
 
