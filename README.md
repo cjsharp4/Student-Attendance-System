@@ -1,5 +1,11 @@
 # Student-Attendance-System
 
+Loads student data (Name,ID, from a csv file inorder to get 
+
+Final Project for CSE 360 (Software Developement) at ASU. I wrote everything other than about 20 lines of code.
+
+This project demonstrated our understanding of the software developement cycle and creating a GUI with Java.
+
 <img width="605" alt="Screen Shot 2022-03-29 at 7 41 07 PM" src="https://user-images.githubusercontent.com/65328908/160740755-c7a32f7e-a18a-4a4e-a446-ac8a40abbab9.png">
 
 
